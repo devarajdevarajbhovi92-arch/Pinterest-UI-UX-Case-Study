@@ -38,5 +38,8 @@ A product teardown of Pinterest analyzing its user experience, business model, s
 ## Design Tool
 Figma
 
+## Document
+[view case study Document](https://github.com/devarajdevarajbhovi92-arch/Pinterest-UI-UX-Case-Study/blob/main/pintrest%20product%20case%20study.pdf)
+
 ## Interactive Prototype
 [View Figma Prototype](https://www.figma.com/design/Ho684yKb3lzi1CiB6TWeFd/Pinterest?node-id=0-1&p=f))
